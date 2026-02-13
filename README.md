@@ -48,17 +48,6 @@ Uma Pokédex interativa e completa dos 151 Pokémon originais da região de Kant
 
 ---
 
-## Como Usar
-
-1. Clone o repositório:
-```bash
-git clone https://github.com/SEU-USUARIO/pokedex-kanto.git
-```
-
-2. Abra o `index.html` no navegador — sem necessidade de build ou instalação.
-
----
-
 ## Estrutura
 
 ```
