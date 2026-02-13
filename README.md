@@ -2,8 +2,6 @@
 
 Uma Pokédex interativa e completa dos 151 Pokémon originais da região de Kanto, construída com HTML, CSS e JavaScript puro.
 
-**[Ver Demo ao Vivo]()**
-
 ---
 
 ## Funcionalidades
@@ -73,27 +71,12 @@ Projeto single-file por design — todo o código está em um único arquivo HTM
 
 ---
 
-## Screenshots
-
-### Light Mode
-![Light Mode](https://via.placeholder.com/800x450/F2F2F2/333?text=Pokedex+Light+Mode)
-
-### Dark Mode
-![Dark Mode](https://via.placeholder.com/800x450/1a1a2e/E8E8E8?text=Pokedex+Dark+Mode)
-
-> Substitua as imagens acima por screenshots reais do projeto.
-
----
-
 ## Créditos
 
 - Dados: [PokéAPI](https://pokeapi.co/)
-- Sprites: [PokeAPI/sprites](https://github.com/PokeAPI/sprites)
-- Framework CSS: [Squeleton](https://squeleton.dev)
 - Pokémon é propriedade da Nintendo / Game Freak / Creatures Inc.
 
 ---
 
 ## Licença
-
-MIT
+Este é um projeto de fã, criado para fins de entretenimento e sem fins lucrativos. Dúvidas, sugestões ou quer contribuir? Entre em contato!
